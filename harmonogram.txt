@@ -1,0 +1,8 @@
+-przygotowanie "mosquitto + klucze TLS" (AP-20190311, w: svn_mqtt_ds\broker)
+...
+-wykonanie apk z TLS (DS-20190610)
+-zakonczone testy apk (DS-20190708)
+-spisanie pracy faza I (DS-20190718)
+-uwagi pracy faza I (AP-20190725)
+-poprawki pracy faza II (DS-20190827)
+-uwagi pracy faza II (AP-20190902)
